@@ -6,3 +6,4 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 ## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
+## Play [Here](https://ojasvibhargava.github.io/2048-presidents/)
